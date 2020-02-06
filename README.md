@@ -1,2 +1,3 @@
-# my-site-test
-Testing a webpage with gh-pages!
+# Claire's Awesome Website!
+
+Look at all my cool data science projects!
