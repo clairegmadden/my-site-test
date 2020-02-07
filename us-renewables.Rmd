@@ -216,7 +216,7 @@ world <- read_sf(dsn = here("data", "TM_WORLD_BORDERS_SIMPL-0.3-1"),
 
 # mapview is a good quick way to view spatial data
 
-#mapview(world)
+mapview(world)
 
 ```
 
